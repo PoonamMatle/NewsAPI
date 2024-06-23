@@ -1,0 +1,39 @@
+/* tr{
+
+    background-color:rgb(37, 147, 108);
+    
+    text-wrap:pretty;
+}
+th{
+
+    background-color:darkcyan;
+    
+} */
+/* Style for table rows */
+tr {
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #e40f0f;
+  }
+  
+  /* Style for table headers */
+  th {
+    background-color: #2233c9;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  /* Style for table cells */
+  td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #1b49c9;
+    background-color:lightpink;
+  }
+  
+  /* Additional styles for hover effect on rows */
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  
